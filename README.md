@@ -6,7 +6,7 @@
 5. Model training and fine-tuning
 
 # Installation
-1. Clone the repository: `git clone https://github.com/privvyledge/autolabeller.git`
+1. Clone the repository: `git clone https://github.com/privvyledge/auto_labeller.git`
 2. Install dependencies: ` sudo apt update && sudo apt install -y python3-venv python3.10-venv ffmpeg libsm6 libxext6 git ninja-build libglib2.0-0 libsm6 libxrender-dev libxext6`
 3. Create a virtual environment: `python3 -m venv autolabeller_env`
 4. Activate the virtual environment:
