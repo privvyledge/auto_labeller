@@ -1,0 +1,27 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch
+torchvision
+ultralytics
+supervision
+albumentations
+transformers
+openmim
+datasets
+evaluate
+accelerate
+huggingface_hub
+label-studio
+label-studio-ml-backend
+autodistill
+autodistill-yolov8
+autodistill-grounding-dino
+autodistill-grounded-sam
+autodistill-grounded-sam-2
+autodistill-codet
+autodistill-vlpart
+autodistill-paligemma
+autodistill-florence-2
+autodistill-owlv2
+autodistill-owl-vit
+autodistill-detic
+autodistill-seggpt
